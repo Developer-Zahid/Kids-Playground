@@ -1,4 +1,4 @@
-# Awesome Slider
-This is a Creative Awesome Slider made with HTML, CSS and Vanilla Javascript only.
+# Kids Playground
+This is a playground type landing page website.
 
-[![Awesome Slider](./assets/images/github-preview.png?raw=true "Awesome Slider")](https://awesome-slider-dev-z.netlify.app/)
+[![Kids Playground](./assets/images/github-preview.png?raw=true "Kids Playground")](https://kids-play-ground.netlify.app/)
